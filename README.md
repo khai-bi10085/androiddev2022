@@ -10,7 +10,8 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
+* Name: Nguyễn Quang Khải
+* ID: BI10-085
+* Group ID: 12
+
 
