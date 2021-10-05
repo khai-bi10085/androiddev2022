@@ -12,6 +12,7 @@ Student Info
 
 * Name: Nguyễn Quang Khải
 * ID: BI10-085
-* Group ID: 12
+* Group ID: 9
+
 
 
