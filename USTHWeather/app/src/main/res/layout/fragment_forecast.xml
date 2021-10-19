@@ -23,7 +23,7 @@
         <TextView
             android:layout_width="120dp"
             android:layout_height="47dp"
-            android:text="Parlyclody"/>
+            android:text="Cloudy\n10-20C"/>
 
     </LinearLayout>
 
@@ -45,7 +45,7 @@
         <TextView
             android:layout_width="120dp"
             android:layout_height="47dp"
-            android:text="so hot today"/>
+            android:text="so hot today\n 28-30C"/>
 
     </LinearLayout>
 
